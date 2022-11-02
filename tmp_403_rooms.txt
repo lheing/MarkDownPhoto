@@ -1,0 +1,145 @@
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/templates/jsn_dome_free/favicon.ico ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/voetbalkrant.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/flash/mic_user_list.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/public/pwa/video ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/fingerprint2.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/lib/snackbarjs/snackbar.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/smell-station.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/summers-in-hollywood.tumblr.com/avatar/30 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/holidays.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/FontAwesome/fonts/fontawesome-webfont.woff2 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/widgets/js/homepage-wx.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                             3% |     | (204369/5408777, 242 it/s) [12m40s:5h58m8s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/neutraface2text-bold.woff ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/web/themes/atropos/plugins/jquery.cookie.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/oembed/videoproxy ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/pages/testimonials/main/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/themes/base/svgs/circle.txt ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   3% |     | (204513/5408777, 241 it/s) [12m40s:5h59m13s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/slick/slick.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/sparq-3.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/vendor/slick/slick.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/hawkinsandbrimble.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/themes/thegem/js/thegem-lazyLoading.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/over-under-clothing-2.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/theme/inpage/AinsyndicationPlayer.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/www.suiomi.com/avatar/30 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/farmz.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/JE-606/lfc/js/news-scripts.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/assets/plugins/sweetalert/sweetalert.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/cherries-jubiles.tumblr.com/avatar/30 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/media/djextensions/jquery-easing/jquery.easing.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/client/stage/proposalsessions/proposalsessions.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/sites/all/libraries/colorbox/jquery.colorbox-min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/carro/getCantidadProductosEnRollo ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/tag/visionworksOfAmericaInc/visionworks-homepage/load ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/farsalicare.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/sales-outlet/config ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/components/tablesaw/tablesaw-init.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/src/js/components/lightbox.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/javascripts/jquery-ujs.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/vendor/modernizr.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/cherry-hill-coffee.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (205233/4976393, 249 it/s) [12m43s:5h19m48s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/scripts/mmenu.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/clubreadyCalendar.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/themes/salient/js/modernizr.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/fonts/ProximaNova-Light.woff ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/modules/mod_accordeonck/themes/default/mod_accordeonck_css.php ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/search/hot ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/related ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/modules/leofeature/views/js/jquery.mousewheel.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (205455/4976393, 239 it/s) [12m45s:5h32m27s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-includes/js/jquery/ui/effect-scale.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/download-after-email/js/media-query.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/rmcc.php ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/registrar.php ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/inc/rotatedata.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/jsmoduls/jquery/plugin/jquery.jcarousel.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/tumbleweedusa.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/notice/5xkogq ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-includes/js/jquery/ui/effect-size.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (205706/4760201, 229 it/s) [12m46s:5h31m59s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/ajax-comment-posting/acp.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (205756/4760201, 225 it/s) [12m46s:5h37m23s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/scrapbookgenerationcom/headers/bigcommerce/anonymous/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/atp-lab-dev.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/modules/alerts/button.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/static/js/home.base.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/assets/js/bs-init.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/host/484/category/bot/default ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/annaofcleves.tumblr.com/avatar/30 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/locals ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (205946/4760201, 221 it/s) [12m47s:5h43m32s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/ehimemachinemyshopifycom/displays/shopify/anonymous/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/jquery.mousewheel.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/faithbox2.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/Scripts/all.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/spot/markets/important-index ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/cache/busting/1/v2-wp-includes-js-wp-embed.min-4.6.1.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/Scripts/notify.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/vdn-kitchen.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/bootstrap/fonts/glyphicons-halflings-regular.woff2 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/assets/js/libs/sweetalert.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/unwired-gl.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (206229/4730371, 207 it/s) [12m48s:6h4m35s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/Auth/Auth/Authenticate ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/www.cullmantimes.com/thirdpartycookie ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/msg.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/animangascenery.tumblr.com/avatar/40 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/the-tinkers-packs.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/include/cookie.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/media/OH1K4cPk ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/scripts/nav.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/ace-vape.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/plugins/system/helix/js/jquery-noconflict.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/media/Gxn1WoPP ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/wp-accessibility/js/longdesc.button.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/proslate-garage-us.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/knockies.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/playlists/Sg3n3cge ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/spectreminiaturesmyshopifycom/headers/shopify/anonymous/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/packages/react-router-dom/5.1.2.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/assets/js/jquery.mmenu.all.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/ngsw.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/litespeed/cssjs/e501d.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/plugins/datatables/jquery.dataTables.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (206771/4699484, 194 it/s) [12m51s:6h26m24s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/font/segoeui-webfont-webfont.woff ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/v2/Scripts/BetterForm.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (206807/4490793, 189 it/s) [12m51s:6h16m59s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/api/ongrok.myshopify.com/storefront_config ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/tuslances.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (206849/4490793, 189 it/s) [12m52s:6h16m58s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/themes/minimal/fonts/AvenirLTStd-Medium.woff ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/null/api.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/segment/cto-lifeline-clickstream/p ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wwwplatinumskincarecom/displays/bigcommerce/anonymous/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/public/js/app.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/flagpole-antenna.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (206975/4490793, 177 it/s) [12m53s:6h42m33s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/freshbox-aus.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/wp-content/themes/krowd/js/add-to-cart.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/amecosmeticos.myshopify.com/display_settings ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/json/wwwthenewbasementtapescom.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/api/urbandrones.myshopify.com/storefront_config ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/gallery/js/scriptaculous.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/js/sgs.tba.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/deafbible/countries/PH ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207126/4459906, 171 it/s) [12m54s:6h54m25s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/farsali.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207135/4459906, 171 it/s) [12m54s:6h54m25s]GET     403 [    581,   69,  14] https://rooms.rec.net/v2/vendor/imagesloaded/imagesloaded.pkgd.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/YP/PictureLanguage.158.4 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/common/PL/PlatformGameList.wolf_power_pls.4.s ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/robyn-uk.myshopify.com/general_settings/discount_method ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/blog/explorerrowan.tumblr.com/avatar/30 ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/v2/assets/vendors/slick-nav/jquery.slicknav.min.js ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                             4% |     | (207314/4213884, 157 it/s) [12m55s:7h6m9s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1.1/videos/8aW0FatC ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                             4% |     | (207342/4213884, 157 it/s) [12m55s:7h6m9s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/cache/actives.json ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207353/4213884, 157 it/s) [12m55s:7h6m9s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/cached-live.html ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/job ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/sitemessages/active ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                             4% |     | (207396/4153167, 148 it/s) [12m56s:7h23m3s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1.1/videos/1FqGP3cn ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                             4% |     | (207405/4153167, 148 it/s) [12m56s:7h23m3s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/user/brandslist ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/V1/b2f-partners/data ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/V1/te-products/120/120/ ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207448/4153167, 140 it/s) [12m56s:7h51m24s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/tracking/identifier ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1/videos/ZipB1Dpc ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/rest/zones/dsweb/_resolve_from_website ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1/videos/vHt3oeFk ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207486/4153167, 132 it/s) [12m57s:8h19m43s]GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1/videos/UfuCreLG ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/homepage-tiles/homepage-tile-fmr ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+   4% |     | (207505/4153167, 132 it/s) [12m57s:8h19m43s]                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/rest/z123clients/portal/sitemap/brand/nutanix ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+GET     403 [    581,   69,  14] https://rooms.rec.net/rest/trust-account/latest-trust-bank-rate/read ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
+                                                          GET     403 [    581,   69,  14] https://rooms.rec.net/rest/v1/blocks/home-scouts-org ->  2FxJyq3d4txIBEOHuhR0GS7VeAq
